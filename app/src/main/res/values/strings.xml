@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CNX Local Experience Owner</string>
+
+    <string name="label_register">Register</string>
+    <string name="label_login">Login</string>
+    <string name="label_report">Report</string>
+
+    <string name="hint_username">Enter username here</string>
+    <string name="hint_promo_code">Enter code here</string>
+    <string name="hint_regis_email">Enter email</string>
+    <string name="hint_regis_name">Enter your company\'s name</string>
+    <string name="hint_password">Enter password</string>
+    <string name="hint_password_confirm">Confirm password again</string>
+
+    <string name="btn_submit">Submit</string>
+    <string name="btn_regis">Register</string>
+
+
+</resources>
